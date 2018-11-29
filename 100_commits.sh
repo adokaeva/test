@@ -1,5 +1,5 @@
 #!/bin/bash
-#comment just 
+#comment just to check
 set -x
 
 oldname="D:\test\test\test.txt"
